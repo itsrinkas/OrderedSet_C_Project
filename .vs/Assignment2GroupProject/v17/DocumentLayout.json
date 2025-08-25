@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\doubleLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\doubleLinkedList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\orderedSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\orderedSet.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2GroupProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doubleLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.h",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\doubleLinkedList.h",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.h",
+              "RelativeToolTip": "Assignment2GroupProject\\doubleLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:55:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doubleLinkedList.c",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.c",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\doubleLinkedList.c",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\doubleLinkedList.c",
+              "RelativeToolTip": "Assignment2GroupProject\\doubleLinkedList.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T11:52:23.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orderedSet.h",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.h",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\orderedSet.h",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.h",
+              "RelativeToolTip": "Assignment2GroupProject\\orderedSet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:54:07.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "orderedSet.c",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.c",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\orderedSet.c",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\orderedSet.c",
+              "RelativeToolTip": "Assignment2GroupProject\\orderedSet.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T11:53:14.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.h",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\main.h",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.h",
+              "RelativeToolTip": "Assignment2GroupProject\\main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:53:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.c",
+              "RelativeDocumentMoniker": "Assignment2GroupProject\\main.c",
+              "ToolTip": "C:\\Users\\karin\\OneDrive - University of Limerick\\Year_2\\Assignment2GroupProject\\Assignment2GroupProject\\main.c",
+              "RelativeToolTip": "Assignment2GroupProject\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-20T11:52:07.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
